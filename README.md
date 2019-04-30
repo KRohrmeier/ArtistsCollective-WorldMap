@@ -1,3 +1,5 @@
+View this page at https://krohrmeier.github.io/ArtistsCollective-WorldMap/
+
 # ArtistsCollective-WorldMap
 
 Created my first semester in Madison College's Web Software Developer program, 
