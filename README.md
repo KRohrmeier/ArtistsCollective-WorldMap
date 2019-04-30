@@ -18,7 +18,7 @@ a unifying and beautiful theme.
 
 Note: the art itself is not mine. If this were a real website, the art would 
 have been commissioned from one of the artists of the collective to help 
-showcase the very reason d'etre for the site.
+showcase the very _raison d'être_ for the site.
 
 I'm proud this website was voted "Best in Class" for design integrity, 
 clear interface, and visual appeal.
