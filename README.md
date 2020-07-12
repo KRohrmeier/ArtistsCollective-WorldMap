@@ -2,7 +2,7 @@ View this page at https://krohrmeier.github.io/ArtistsCollective-WorldMap/
 
 # ArtistsCollective-WorldMap
 
-Created my first semester in Madison College's Web Software Developer program, this is a page from a website designed for independent artists. The idea was to build a site that artists from aroung the world could use to easily apply to the artists' collective, and to upload and sell their wares once they become a member.
+Created my first semester in Madison College's Web Software Developer program, this is a page from a website designed for independent artists. The idea was to build a site that artists from around the world could use to easily apply to the artists' collective, and to upload and sell their wares once they become a member.
 
 Likewise, buyers should be able to easily search for, find, and buy beautiful art from member artists.
 
